@@ -2,10 +2,8 @@
     display: flex;
     align-items: center;
     height: 100px;
-    background: #434344;
+    background: #000;
 }
-
-
 
 #header .inner {
     display: flex;
@@ -15,13 +13,23 @@
 
 #header .gnb>ul {
     display: flex;
-    gap: 50px;
+    gap: 70px;
+    color: white;
+}
+
+#header .gnb>ul>li {
+    position: relative;
 }
 
 
 .inner {
     font-size: 20px;
     margin: 0 20px 0 20px;
-    width: 1200px;
+    width: 1400px;
     margin: 0 auto;
+}
+
+.inner .icon_1 {
+    color: white;
+ font-size: 20px;
 }
