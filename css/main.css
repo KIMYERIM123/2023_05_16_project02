@@ -1,0 +1,27 @@
+#header {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    background: #434344;
+}
+
+
+
+#header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header .gnb>ul {
+    display: flex;
+    gap: 50px;
+}
+
+
+.inner {
+    font-size: 20px;
+    margin: 0 20px 0 20px;
+    width: 1200px;
+    margin: 0 auto;
+}
