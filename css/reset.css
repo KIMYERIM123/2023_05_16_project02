@@ -147,3 +147,19 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+address {
+    font-style: normal;
+    /* footer */
+}
+
+
+
+
+.slick-arrows {
+    button {
+        &::before {
+            display: none;
+        }s
+    }
+}
