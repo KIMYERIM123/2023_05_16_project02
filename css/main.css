@@ -97,7 +97,7 @@
     width: 100%;
     border: 1px solid #d91226;
     border-radius: 10%;
-    
+
 }
 
 .main_content h2 {
@@ -156,7 +156,7 @@
     margin: 0 auto 0 0;
 }
 
-#footer .inner3{
+#footer .inner3 {
     display: block;
 }
 
@@ -169,4 +169,8 @@
 #footer .footerinner .inner3 {
     display: block;
     margin-top: 0;
+}
+
+#footer .inner2 .li1 {
+    font-weight: 600;
 }
